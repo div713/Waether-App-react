@@ -1,1 +1,3 @@
-# new peoject
+# Minor Projects
+
+This repository contains my React projects.
